@@ -1,0 +1,75 @@
+.logo-img {
+    position: absolute;
+    width: 132px;
+    height: 132px;
+    left: 106px;
+    top: 62px;
+}
+
+.tagline {
+    position: absolute;
+    width: 643px;
+    height: 54px;
+    left: 258px;
+    top: 98px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 63px;
+    color: #EB9F46;
+}
+
+.input-box {
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 7.01%;
+    right: 7.01%;
+    top: 27.19%;
+    bottom: 40.33%;
+    font-size: 20px;
+
+    background: #FFFFFF;
+    border: 5px solid #EB9F46;
+    /* border-radius: 2%; */
+}
+
+.send-btn{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    position: absolute;
+    left: 85%;
+    right: 7.01%;
+    top: 65.38%;
+    bottom: 29.74%;
+    background-color: #EB9F46;
+    color: #FFFFFF;
+    font-size: 15px;
+    cursor: pointer;
+    display: block;
+    background: #eb922e;
+    border: none;
+    outline: none;
+    transition: all 0.3s ease; 
+}
+
+.back-btn{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    position: absolute;
+    left: 6.48%;
+    right: 81.88%;
+    top: 64.87%;
+    bottom: 30.24%;
+    background-color: #000;
+    color: #FFFFFF;
+    font-size: 15px;
+    cursor: pointer;
+    display: block;
+    border: none;
+    outline: none;
+    transition: all 0.3s ease;
+}
